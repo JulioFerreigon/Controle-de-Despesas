@@ -26,14 +26,14 @@ body {
   padding-right: 1.5rem;
   padding-left: 1.5rem;
   padding-bottom: 1rem;
-  background: white;
+  background: #6842C2;
   border-radius: 0.8rem;
 }
 
 h1 {
   letter-spacing: 1px;
   margin: 0;
-  color: #2e75cc;
+  color: whitesmoke;
 }
 
 h3 {
@@ -54,6 +54,7 @@ h4 {
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
+  border-radius: 0.5rem;
 }
 
 .inc-exp-container > div {
@@ -92,6 +93,7 @@ input[type='number'] {
   font-size: 16px;
   padding: 10px;
   width: 100%;
+  border-radius: 0.2rem;
 }
 
 .btn {
